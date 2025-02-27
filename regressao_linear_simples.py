@@ -17,9 +17,9 @@ plt.show()
 print(dados['dist'])
 
 print(dados.head())
-# variavel dependente Y (speed):
+# variavel dependente x (speed):
 # variável é dependente, pois é o alvo da predição.
-# variavel independente X (dist):
+# variavel independente y (dist):
 # variável é independente, ou seja, o modelo a usa para prever y.
 #A relação entre x e y geralmente segue a equação:
 #y=a⋅x+b
